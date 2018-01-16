@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sidebar-header" transform="translate(-271.000000, -61.000000)" fill="#2955D1">
+            <g id="search">
+                <g transform="translate(40.000000, 50.000000)">
+                    <path d="M243.5,22 L242.7,22 L242.4,21.7 C243.4,20.6 244,19.1 244,17.5 C244,13.9 241.1,11 237.5,11 C233.9,11 231,13.9 231,17.5 C231,21.1 233.9,24 237.5,24 C239.1,24 240.6,23.4 241.7,22.4 L242,22.7 L242,23.5 L247,28.5 L248.5,27 L243.5,22 L243.5,22 Z M237.5,22 C235,22 233,20 233,17.5 C233,15 235,13 237.5,13 C240,13 242,15 242,17.5 C242,20 240,22 237.5,22 L237.5,22 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

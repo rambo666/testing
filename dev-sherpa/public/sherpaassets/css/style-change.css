@@ -1,0 +1,11 @@
+form .form-control {
+    height: auto;
+}
+
+.isotope .destiny-item figure a img {
+    height: auto;
+}
+
+.search #package-lists li.destiny-item a img {
+    height: auto;
+}

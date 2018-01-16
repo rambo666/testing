@@ -1,0 +1,11 @@
+[28-Feb-2017 10:04:26 UTC] PHP Warning:  PHP Startup: soap: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[28-Feb-2017 10:04:26 UTC] PHP Warning:  PHP Startup: mbstring: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[28-Feb-2017 10:04:26 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/praraw/public_html/sherpaguide/dev-sherpa/tests/TestCase.php on line 4
